@@ -1,0 +1,35 @@
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.Main-grid {
+  margin: auto;
+  display: block;
+  width: 80%;
+}
+
+.Main-grid h3 {
+  font-size: large;
+}
+
+.Main-grid .button {
+  font-size: small;
+}
+
+.Main-grid .description {
+  font-size: small;
+}
+
+.Main-grid .container {
+
+}

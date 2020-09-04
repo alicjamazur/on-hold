@@ -1,0 +1,3 @@
+keras-yolo3/model_data/yolo.h5 filter=lfs diff=lfs merge=lfs -text
+keras-yolo3/output/rodizio2.mp4 filter=lfs diff=lfs merge=lfs -text
+keras-yolo3/yolov3.weights filter=lfs diff=lfs merge=lfs -text

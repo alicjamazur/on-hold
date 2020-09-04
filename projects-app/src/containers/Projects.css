@@ -1,0 +1,21 @@
+.Main-grid {
+    margin: auto;
+    display: block;
+    width: 80%;
+}
+
+.Main-grid h3 {
+    font-size: large;
+}
+
+.Main-grid .button {
+    font-size: small;
+}
+
+.Main-grid .description {
+    font-size: small;
+}
+
+.Main-grid .container {
+
+}
